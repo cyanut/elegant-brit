@@ -1,2 +1,2 @@
 # elegant-brit
-Elegant Brit GTK3 theme, currently updated to gtk-3.20
+Elegant Brit GTK3 theme, work in progress to update to gtk-3.20
